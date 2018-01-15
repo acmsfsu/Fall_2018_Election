@@ -1,7 +1,9 @@
 # Fall_2018_Election
-ACM Election to determine next semester's President 
 
 # [Click Here to Vote](https://goo.gl/forms/AuH5jOMzOVxank9F3)
+
+ACM Election to determine next semester's President 
+
 
 # Platforms
 
